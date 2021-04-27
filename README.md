@@ -2,10 +2,6 @@
 
 This is common project to all test automation specialist to take and start e2e api testing. <br>
 To run tests use maven command: mvn test -s settings.xml -Denv=dev <br>
-You can set dev or test environment via -Denv = dev or test. <br>
-
-project structure: <br>
-main has key framework functionality(models, request executors, configuration) <br>
 
 instructions how to install allure reports locally: <br>
 open powerShell(v5 or later) <br>
